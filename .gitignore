@@ -1,0 +1,12 @@
+# Local app/session state
+.claudian/
+.obsidian/workspace.json
+
+# Installed community plugin bundles
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
